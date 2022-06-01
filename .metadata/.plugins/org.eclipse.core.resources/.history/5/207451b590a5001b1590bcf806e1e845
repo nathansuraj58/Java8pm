@@ -1,0 +1,5 @@
+p=0
+while p<=5:
+    
+  print(p)
+p=p+1

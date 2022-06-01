@@ -1,0 +1,4 @@
+numberA=float(input("first:"))
+numberB=float(input("second:"))
+calc=numberA-numberB
+print("the result is " +str(calc))
